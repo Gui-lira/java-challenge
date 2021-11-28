@@ -1,0 +1,6 @@
+rootProject.name = 'server'
+include 'entities'
+include 'Services'
+include 'src:main:services'
+findProject(':src:main:services')?.name = 'services'
+

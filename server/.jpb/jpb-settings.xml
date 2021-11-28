@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaPluginProjectSettings">
+    <option name="accessModifier" value="PROTECTED" />
+    <option name="entityNameTemplate" value="${className}" />
+    <option name="tableNameTemplate" value="${className.underscore().toLowerCase().pluralize()}" />
+    <option name="generateJpaOnGetter" value="true" />
+    <option name="generateTypeOnEntity" value="true" />
+    <option name="useLazyOnToOneAssociations" value="true" />
+    <option name="indexCase" value="upper" />
+    <option name="scaffoldingLanguage" />
+    <option name="lastSelectedLanguage" value="Java" />
+  </component>
+</project>
