@@ -20,7 +20,7 @@ public class Record {
     @jakarta.persistence.Id
     @jakarta.persistence.Column(name = "id", nullable = false)
     protected Long id;
-    private Long relation_id;
+    public Long relation_id;
     @CreationTimestamp
     private Date created_at;
 }
