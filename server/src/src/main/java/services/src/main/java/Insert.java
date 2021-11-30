@@ -1,8 +1,9 @@
 package services.src.main.java;
 
 import Entities.Record;
-import jakarta.persistence.EntityManager;
-import org.hibernate.Session;
+
+
+import javax.persistence.EntityManager;
 
 public class Insert {
     private EntityManager manager;

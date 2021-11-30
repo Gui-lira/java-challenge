@@ -12,6 +12,8 @@ repositories {
 dependencies {
     implementation 'org.hibernate:hibernate-search-orm:5.11.10.Final'
     implementation 'com.github.MadaraFsl:HibernateUtil:1.0'
+    implementation 'org.springframework.boot:spring-boot-starter-web:2.5.6'
+    implementation 'org.springframework:spring-web:5.3.13'
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
 }

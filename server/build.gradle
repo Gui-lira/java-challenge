@@ -18,6 +18,8 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot:2.5.6'
     implementation 'org.hibernate:hibernate-search-orm:5.11.10.Final'
     implementation 'com.github.MadaraFsl:HibernateUtil:1.0'
+    implementation 'org.springframework.boot:spring-boot-starter-web:2.5.6'
+    implementation 'org.springframework:spring-web:5.3.13'
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.1'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.1'
 }

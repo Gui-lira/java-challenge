@@ -5,17 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cac60c2-ea6b-445b-ba9b-c8d6ebb9c1b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/services/src/main/java/Insert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/src/main/Controllers/server.src.main.Controllers.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/Controllers/GetPlaylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/Controllers/JsonBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/Controllers/JsonPart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/Controllers/PlaylistType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/Controllers/RequestForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/Controllers/SpotifyResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/server.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy-datasource.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa-buddy-datasource.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Services/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Entities/Record.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Entities/Relation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Entities/Style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Entities/Weather.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/src/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Entities/Record.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Entities/Record.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/services/src/main/java/Get.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/services/src/main/java/Get.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Entities/Record.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/Entities/Record.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Entities/Relation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/Entities/Relation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Entities/Style.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/Entities/Style.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Entities/Weather.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/Entities/Weather.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/services/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/services/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/services/src/main/java/Get.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/services/src/main/java/Get.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/services/src/main/java/Insert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/services/src/main/java/Insert.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,18 +80,27 @@
     </option>
     <option name="isSearchInLibrariesForStructure" value="false" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="21WJHq8zZ8FmIBkv1z4Nn8Ab6C4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Entities" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -74,6 +108,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
@@ -119,5 +155,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

@@ -1,12 +1,9 @@
 package Entities;
 
-import jakarta.persistence.*;
-import org.hibernate.annotations.CreationTimestamp;
-import org.springframework.context.annotation.Primary;
 
-import javax.persistence.GeneratedValue;
-import javax.persistence.ManyToOne;
-import java.util.Date;
+
+import javax.persistence.*;
+
 
 @Table(name = "weathers")
 @Entity(name = "Weather")

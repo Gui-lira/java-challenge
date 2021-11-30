@@ -4,5 +4,8 @@
     <data-sources>
       <data-source id="a9e088f7-4eb3-4348-9ab2-cd6b8c17c6ec" name="Challenge" url="jdbc:postgresql://localhost:5432/Challenge" driverClass="org.postgresql.Driver" />
     </data-sources>
+    <data-source-infos>
+      <data-source-info id="a9e088f7-4eb3-4348-9ab2-cd6b8c17c6ec" persistence-unit-name="Entities" />
+    </data-source-infos>
   </component>
 </project>

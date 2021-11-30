@@ -1,8 +1,9 @@
 package Entities;
 
-import jakarta.persistence.*;
 
-import java.util.List;
+
+import javax.persistence.*;
+
 
 @Table(name = "styles")
 @Entity(name = "Style")
